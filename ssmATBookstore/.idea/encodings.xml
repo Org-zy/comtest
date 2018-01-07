@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/bookstore/common/BookStoreWebUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bookstore/common/Page.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/bookstore/entity/CriteriaBook.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.1.2.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/pages" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/commons" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/error-1.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/script" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/success.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/users.jsp" charset="GBK" />
+  </component>
+</project>
